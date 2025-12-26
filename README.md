@@ -3,7 +3,7 @@
 ---
 
 ### Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -28,7 +28,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -40,8 +40,8 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 3 – Programming Elements in Java  
-*(Date: 18-Dec-2025)*
+###  Day 3 – Programming Elements in Java  
+*(Date: 17-Dec-2025)*
 
 - Studied Java programming elements:
   - Variables and data types
@@ -56,8 +56,8 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
+### Day 4 – Control Flow & Logical Constructs  
+**(Date: 18-Dec-2025)**
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -79,8 +79,8 @@ BridgeLabz-Training/
 
  ---
  
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 20-Dec-2025)**
+### Day 5 – Arrays & Basic Problem Solving  
+**(Date: 19-Dec-2025)**
 
 - Studied arrays in Java:
   - Single-dimensional arrays
@@ -94,3 +94,17 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
  [Day 5 - Arrays](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+
+### Day 6 - Methods
+**(Date: 20-Dec-2025)**
+
+Learning: Method declaration, parameter passing, and the importance of the static keyword.
+Implemented methods for different operations.
+Increased code reusability.
+Solved basic to advanced problems of methods.
+Committed and pushed solutions to the repository.
+🔗 *Code Link:*  
+[Day 6 – Strings & Methods](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/method)
+
