@@ -106,5 +106,7 @@ Increased code reusability.
 Solved basic to advanced problems of methods.
 Committed and pushed solutions to the repository.
 🔗 *Code Link:*  
-[Day 6 – Strings & Methods](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/method)
+[Day 6 – Methods](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/method)
+
+---
 
