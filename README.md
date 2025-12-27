@@ -134,4 +134,5 @@ BridgeLabz-Training/
 - Solved date and time questions.
 - Solved multiple problems of different topics by using built-in functions.
 - Committed and pushed solutions to the repository.
-
+🔗 *Code Link:*
+[Day 2 - Extras](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
