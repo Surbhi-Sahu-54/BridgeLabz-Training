@@ -150,3 +150,15 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
  [Day 3 – java scenario based problem](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
+
+---
+
+### Day 4 - Scenario-based questions and leetcode practice
+**(Date: 26-Dec-2025)**
+
+- Solved three Scenario based problems
+- Solved leetcode Questions.
+- Committed and pushed solutions to the repository.
+- Scenario-Based
+🔗 *Code Link:*
+[Day 4 - Scenario based questions and leetcode questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/Leet-code-codebase/Arrays)
