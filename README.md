@@ -160,5 +160,6 @@ BridgeLabz-Training/
 - Solved leetcode Questions.
 - Committed and pushed solutions to the repository.
 - Scenario-Based
+  
 🔗 *Code Link:*
 [Day 4 - Scenario based questions and leetcode questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/Leet-code-codebase/Arrays)
