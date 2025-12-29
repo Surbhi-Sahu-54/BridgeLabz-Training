@@ -5,12 +5,11 @@
 ---
 ### Day 1 - Oops Introduction and Problem Solving
 **(Date- 26-Dec-2025)**
-
 BridgeLabz-Training/
 │── java-oops-practice/
 │ │── gcr-codebase/
-│ │ │── JavaOopsConcepts/
-│ │   │── src/
+│ │ │── JavaOopsPractce
+│ │   │──src/
 │ │── leet-code-codebase/
 │ │── scenario-based-codebase/
 │── README.md
