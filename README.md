@@ -42,3 +42,20 @@ BridgeLabz-Training/
  [Day 3 - Java Keywords](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeyword)
 
 ---
+
+### Day 4 - Object Modeling, Object Diagram
+**(Date- 30-Dec-2025)**
+
+- student Classes Vs Objects in Java
+- Studied Object Relationships (Association / Aggregation / Communication)
+- Studied Class Diagram, Components of a Class Diagram, Sequence Diagram
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+
+  🔗 Code Link:
+  🔗 Code Link:
+ [Day 4 - Object Modeling](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+ [Day 4 - Object Diagram](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectdiagram)
+
+---
+
