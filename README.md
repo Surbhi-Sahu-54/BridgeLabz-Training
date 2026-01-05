@@ -154,7 +154,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 4 - Scenario-based questions and leetcode practice
-**(Date: 26-Dec-2025)**
+**(Date: 25-Dec-2025)**
 
 - Solved three Scenario based problems
 - Solved leetcode Questions.
@@ -163,3 +163,13 @@ BridgeLabz-Training/
   
 🔗 *Code Link:*
 [Day 4 - Scenario based questions and leetcode questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/Leet-code-codebase/Arrays)
+
+---
+
+### Day 5 - Scenario Based Questions
+**(Date: 26-Dec-2025)**
+
+- Solved Scenario based Questions
+- ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
+🔗 *Code Link:*
+[Day 5 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
