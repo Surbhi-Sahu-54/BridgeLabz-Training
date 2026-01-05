@@ -121,6 +121,7 @@ BridgeLabz-Training/
 - Implemented the properties and use cases of Strings.
 - Solved multiple problems and studied concepts of strings.
 - Committed and pushed solutions to the repository.
+
 🔗 *Code Link:*
 [Day 1 - Strings](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
@@ -134,6 +135,7 @@ BridgeLabz-Training/
 - Solved date and time questions.
 - Solved multiple problems of different topics by using built-in functions.
 - Committed and pushed solutions to the repository.
+
 🔗 *Code Link:*
 [Day 2 - Extras](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
 
@@ -171,5 +173,6 @@ BridgeLabz-Training/
 
 - Solved Scenario based Questions
 - ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
+
 🔗 *Code Link:*
 [Day 5 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
