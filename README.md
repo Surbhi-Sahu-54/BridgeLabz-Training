@@ -6,11 +6,17 @@
 ### Day 1 - Oops Introduction and Problem Solving
 **(Date- 26-Dec-2025)**
 
-- Created and executed programs to understand object behavior
-- Practiced writing reusable methods & Using parameterized constructors
-- Made repository named Java-oops-Practice for OOPs.
-- Committed and pushed solutions to the repository.
-- 
+```
+BridgeLabz-Training/
+│── java-oops-practice/
+│ │── gcr-codebase/
+│ │ │── JavaOopsConcepts/
+│ │   │── src/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
+│── README.md
+```
+ 
 🔗 Code Link:  
 [Day 1 – GitHub Setup & Oops Concept](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)  
 
