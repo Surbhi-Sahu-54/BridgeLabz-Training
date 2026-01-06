@@ -105,6 +105,7 @@ BridgeLabz-Training/
 - Increased code reusability.
 - Solved basic to advanced problems of methods.
 - Committed and pushed solutions to the repository.
+- 
 🔗 *Code Link:*  
 [Day 6 – Methods](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/method)
 
@@ -176,3 +177,48 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*
 [Day 5 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+## Week 3: Scenario-Based Questions
+
+---
+
+### Day 1 - Scenario-Based Questions
+**(Date: 29-Dec-2025)**
+
+- Started the day with a mentor review session.
+- Learnt about the areas of improvement.
+- Solved 5 Scenario-Based Problems.
+- Learned about how to make our code more interactive.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*
+[Day 1 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### Day 2 - Scenario-Based Questions Practice
+**(Date: 30-Dec-2025)**
+
+- Solved 5 Scenario-Based Problems.
+- Made some real world applications.
+- Learned about using java to design attractive programs.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*
+[Day 2 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
+
+### Day 3 - Scenario-Based Questions Practice
+**(Date: 31-Dec-2025)**
+
+- Solved 5 Scenario-Based Problems.
+- Made some real games and utility applications.
+- Modelled looping conditions in real world scenarios.
+- Committed and pushed solutions to the repository.
+
+
+🔗 *Code Link:*
+[Day 2 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
