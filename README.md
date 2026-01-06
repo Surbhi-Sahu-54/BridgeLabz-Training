@@ -31,8 +31,9 @@ Day 2 – Git Practice & Basic Java Programs
 Practiced Git workflow to understand commits and version control.
 Solved very basic Java programs to understand syntax and structure.
 Practiced adding, committing, and pushing Java files to GitHub.
-🔗 Code Link:
-Day 2 – Basic Java Programs
+*Code Link:*  
+[Day 2 – Basic Java Programs](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program-Prequisites)
+
 
 ---
 
@@ -45,7 +46,7 @@ Operators
 User input and output
 Solved practice problems based on programming elements.
 Committed and pushed solutions to the repository.
-🔗 Code Link: Day 3 - Programming Elements
+🔗 Code Link:[Day 3 - Programming Elements](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -66,7 +67,7 @@ Factorial
 Prime number check
 Committed and pushed solutions to the repository.
 🔗 Code Link:
-Day 4 – Control Flow
+[Day 4 – Control Flow](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -83,7 +84,7 @@ Basic array-based logic
 Strengthened logical thinking using array problems.
 Committed and pushed solutions to the repository.
 🔗 Code Link:
-Day 5 - Arrays
+[Day 4 – Control Flow](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -94,8 +95,9 @@ Learning: Method declaration, parameter passing, and the importance of the stati
 Implemented methods for different operations.
 Increased code reusability.
 Solved basic to advanced problems of methods.
-Committed and pushed solutions to the repository. 🔗 Code Link:
-Day 6 – Methods
+Committed and pushed solutions to the repository. 
+🔗 Code Link:
+[Day 6 – Methods](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/method)
 
 ---
 
@@ -108,7 +110,9 @@ Learning: String immutability, String vs StringBuilder vs StringBuffer, and comm
 Implemented the properties and use cases of Strings.
 Solved multiple problems and studied concepts of strings.
 Committed and pushed solutions to the repository.
-🔗 Code Link: Day 1 - Strings
+🔗 Code Link: 
+[Day 1 - Strings](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+
 
 ---
 
@@ -120,7 +124,9 @@ Solved questions of strings by using built-in String functions.
 Solved date and time questions.
 Solved multiple problems of different topics by using built-in functions.
 Committed and pushed solutions to the repository.
-🔗 Code Link: Day 2 - Extras
+🔗 Code Link: 
+[Day 2 - Extras](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extra)
+
 
 ---
 
@@ -132,7 +138,8 @@ Solved two Scenario based problems
 Learned about the ways to use leetcode efficiently.
 Committed and pushed solutions to the repository.
 🔗 Code Link:
-Day 3 – java scenario based problem
+[Day 3 – java scenario based problem](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
 
 ---
 
@@ -143,7 +150,8 @@ Solved three Scenario based problems
 Solved leetcode Questions.
 Committed and pushed solutions to the repository.
 Scenario-Based
-🔗 Code Link: Day 4 - Scenario based questions and leetcode questions
+🔗 Code Link:
+[Day 4 - Scenario based questions and leetcode questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/Leet-code-codebase/Arrays)
 
 ---
 
@@ -152,7 +160,8 @@ Day 5 - Scenario Based Questions
 
 Solved Scenario based Questions
 ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
-🔗 Code Link: Day 5 - Scenario based questions
+🔗 Code Link:
+[Day 5 - Scenario based questions](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
 
