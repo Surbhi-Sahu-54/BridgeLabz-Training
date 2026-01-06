@@ -29,6 +29,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
   🔗 Code Link:
+  
   [Day 2 - Java Constructor](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
   ---
@@ -44,6 +45,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 Code Link:
+
  [Day 1 - Java Keywords](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeyword)
 
 ---
@@ -107,6 +109,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 Code Link:
+
    [Day 5 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
   ---
@@ -120,8 +123,38 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
   🔗 Code Link:
+  
    [Day 5 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
 
+ ### Week 4 : OOP Practice
 
+---
+
+### Day 1 -  Scenario-Based Questions
+**(Date- 05-Jan-2026)**
+
+- Solved 2 Scenario-Based Problems.
+- Made some real world applications like CampusConnect and SwiftCart.
+- Learnt how to use oops concepts in real world scenarios.
+- Committed and pushed solutions to the repository.
+
+  🔗 Code Link:
+  
+   [Day 1 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+  ---
+
+### Day 2 -  Scenario-Based Questions
+**(Date- 05-Jan-2026)**
+
+- Solved 4 Scenario-Based Problems.
+- Made some real world applications and practiced array like implementation of Classes.
+- Learnt how to model oops concepts in real world scenarios.
+- Used real world attributes and functionalities and behaviors of entities.
+- Committed and pushed solutions to the repository.
+
+  🔗 Code Link:
+  
+  [Day 2 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
