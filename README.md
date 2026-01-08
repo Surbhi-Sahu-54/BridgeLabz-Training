@@ -147,7 +147,7 @@ BridgeLabz-Training/
   ---
 
 ### Day 2 -  Scenario-Based Questions
-**(Date- 05-Jan-2026)**
+**(Date- 06-Jan-2026)**
 
 - Solved 4 Scenario-Based Problems.
 - Made some real world applications and practiced array like implementation of Classes.
@@ -158,3 +158,16 @@ BridgeLabz-Training/
   🔗 Code Link:
   
   [Day 2 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+  ### Day 3 -  Scenario-Based Questions
+**(Date- 07-Jan-2026)**
+
+- Solved Scenario-Based Problems.
+- Solved some real world problems by implementing OOPs concepts.
+- Committed and pushed solutions to the repository.
+
+
+  🔗 Code Link:
+  
+  [Day 2 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
