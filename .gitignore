@@ -1,0 +1,18 @@
+/.metadata/
+#Eclipse specific files
+.metadata/
+.settings/
+.classpath
+.project
+
+#java build output
+bin/
+target/
+
+module-info.java
+
+#logs
+.logs
+#os  generated files
+.DS_Store
+Thumbs.db
