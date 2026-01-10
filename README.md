@@ -337,4 +337,16 @@ Successfully pushed files to the remote repository
   🔗 *Code Link:*
   [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
+  ---
+
+   ### Day 5 - OOPs Scenario-Based Questions
+**(Date: 09-Jan-2026)**
+
+- Solved Scenario-Based Problems.
+- Solved some real world problems by implementing OOPs concepts.
+- Committed and pushed solutions to the repository.
+
+  🔗 *Code Link:*
+  [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
   
