@@ -169,5 +169,48 @@ BridgeLabz-Training/
 
   🔗 Code Link:
   
-  [Day 2 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+  [Day 3 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
+  ---
+  
+  ### Day 4 -  Scenario-Based Questions
+**(Date- 08-Jan-2026)**
+
+- Solved Scenario-Based Problems.
+- Solved some real world problems by implementing OOPs concepts.
+- Committed and pushed solutions to the repository.
+
+
+  🔗 Code Link:
+  
+  [Day 4 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+---
+
+
+  ### Day 5 -  Scenario-Based Questions
+**(Date- 09-Jan-2026)**
+
+- Solved Scenario-Based Problems.
+- Solved some real world problems by implementing OOPs concepts.
+- Committed and pushed solutions to the repository.
+
+
+  🔗 Code Link:
+  
+  [Day 5 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+  ---
+
+  
+  ### Day 6 -  Scenario-Based Questions
+**(Date- 10-Jan-2026)**
+
+- Solved Scenario-Based Problems.
+- Solved some real world problems by implementing OOPs concepts.
+- Committed and pushed solutions to the repository.
+
+
+  🔗 Code Link:
+  
+  [Day 6 - Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
