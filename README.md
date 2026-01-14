@@ -56,3 +56,18 @@
 - Committed and pushed the solutions to repository.
 
   ---
+
+### Day 3 -  Algorithm's Runtime Analysis & Big-O Notation
+**(Date: 07-Jan-2026)**
+
+Studied:-
+ - What is Runtime Analysis?
+ - Understanding Big-O Notation
+ - Time Complexity Analysis
+ - Space Complexity Analysis
+ - Best, Worst, and Average Case Complexities
+ - Practical Guidelines for Optimizing Java Code
+ - Practiced questions and implemented the logic.
+ - Committed and pushed the solutions to repository.
+
+---
