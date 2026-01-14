@@ -274,8 +274,12 @@ Successfully pushed files to the remote repository
 
   ---
   
-### Day 6 -DSA Basics & OOPs Scenario-Based Questions
+### Day 6 -DSA (Stack, Queue and hashmaps) & OOPs Scenario-Based Questions
 **(Date: 03-Jan-2026)**
+
+- Studied Stacks, Queues & concept of Hashmap and Hashing functions.
+- Learnt how to use these concepts in real world problems.
+- Studied the application and implementation
 - Solved 2 Scenario-Based Problems.
 - Made some real world applications like cabbyGo and MyBank.
 - Learnt how to use oops concepts in real world scenarios.
@@ -290,8 +294,11 @@ Successfully pushed files to the remote repository
 
 ---
 
-### Day 1 - OOPs Scenario-Based Questions
+### Day 1 - Sorting Algorithms & OOPs Scenario-Based Questions
 **(Date: 05-Jan-2026)**
+
+- Studied various sorting algorithms and their significance.
+- Studied the complexities of different techniques and their use cases & implementation.
 - Solved 2 Scenario-Based Problems.
 - Made some real world applications like CampusConnect and SwiftCart.
 - Learnt how to use oops concepts in real world scenarios.
@@ -302,8 +309,13 @@ Successfully pushed files to the remote repository
 
  ---
  
-### Day 2 - OOPs Scenario-Based Questions
+### Day 2 - Searching Algorithms & OOPs Scenario-Based Questions
 **(Date: 06-Jan-2026)**
+
+- Studied various Searching algorithms.
+- Studied various important topics such as : StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+- Learnt how to read files and perform operations on them.
+- Studied the use cases for linear search and binary search
 - Solved 4 Scenario-Based Problems.
 - Made some real world applications and practiced array like implementation of Classes.
 - Learnt how to model oops concepts in real world scenarios.
@@ -327,7 +339,7 @@ Successfully pushed files to the remote repository
 
   ---
 
-  ### Day 4 - OOPs Scenario-Based Questions
+  ### Day 4 - Revision and OOPs Scenario-Based Questions
 **(Date: 08-Jan-2026)**
 
 - Solved Scenario-Based Problems.
@@ -352,7 +364,7 @@ Successfully pushed files to the remote repository
   
 ---
 
- ### Day 6 - OOPs Scenario-Based Questions
+ ### Day 6 - DSA Scenario-Based Questions
 **(Date: 10-Jan-2026)**
 
 - Solved Scenario-Based Problems.
@@ -360,6 +372,34 @@ Successfully pushed files to the remote repository
 - Committed and pushed solutions to the repository.
 
   🔗 *Code Link:*
-  [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+  [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
 
-  
+---
+### WEEK 5 : DSA Scenario Based Practice
+---
+
+### Day 1 - DSA Scenario-Based Questions
+**(Date: 12-Jan-2026)**
+
+- Solved 3 scenario-Based DSA problems:
+- TrafficManager – Roundabout Vehicle Flow
+- BookShelf – Library Organizer
+- HomeNest – Smart Home Device Manager
+- Implemented the linked List, Stacks, hashmap and queue.
+- Studied the practical application and implementation.
+- Committed and pushed solutions to the repository.
+
+---
+
+### Day 2 - DSA Scenario-Based Questions
+**(Date: 13-Jan-2026)**
+
+- Solved 3 scenario-Based DSA problems.
+- Implemented the linked List, Stacks, hashmap and queue.
+- Learnt about trees and the different types of tress.
+- Operations performed on trees.
+- Studied the practical application and implementation.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*
+[Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
