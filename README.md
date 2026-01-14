@@ -45,3 +45,14 @@
 
   ---
   
+### Day 2 - Searching Algorithms
+**(Date: 06-Jan-2026)**
+
+- Studied Searching Algorithms : Linear & Binary Search.
+- Studied various important topics such as : StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+- Learnt how to read files and perform operations on them.
+- Studied the use cases for linear search and binary search
+- Practiced questions and implemented the logic.
+- Committed and pushed the solutions to repository.
+
+  ---
