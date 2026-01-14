@@ -30,5 +30,18 @@
 
 ---
 
+### WEEK 4 : DSA Concepts
+---
 
+### Day 1 -Sorting Algorithms.
+**(Date: 05-Jan-2026)**
+
+- Studied various sorting algorithms and their significance.
+- Studied the complexities of different techniques and their use cases.
+- Major Algorithms studied: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
+- Studied the application and implementation.
+- Solved practice Questions.
+- Committed and pushed solutions to the repository.
+
+  ---
   
