@@ -287,6 +287,7 @@ Successfully pushed files to the remote repository
 
 🔗 *Code Link:*
   [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+  [Stack and Queue](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/stackqueue)
 
   ---
 
@@ -324,7 +325,8 @@ Successfully pushed files to the remote repository
 
 🔗 *Code Link:*
    [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
-
+   [Searching Algorithm](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/searching)
+   
   ---
 
 ### Day 3 - OOPs Scenario-Based Questions
@@ -388,6 +390,9 @@ Successfully pushed files to the remote repository
 - Implemented the linked List, Stacks, hashmap and queue.
 - Studied the practical application and implementation.
 - Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*
+  [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
 
 ---
 
