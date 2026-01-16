@@ -28,6 +28,9 @@
 - Solved practice Questions.
 - Committed and pushed solutions to the repository.
 
+🔗 *Code Link:* 
+[Stack Queue](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/stackqueue)
+[HashMap and Hashing Function](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/hashmapshashfunctions)
 ---
 
 ### WEEK 4 : DSA Concepts
@@ -55,6 +58,8 @@
 - Practiced questions and implemented the logic.
 - Committed and pushed the solutions to repository.
 
+  🔗 *Code Link:*
+  [Searching](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/searching)
   ---
 
 ### Day 3 -  Algorithm's Runtime Analysis & Big-O Notation
