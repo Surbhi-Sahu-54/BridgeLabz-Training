@@ -408,3 +408,42 @@ Successfully pushed files to the remote repository
 
 🔗 *Code Link:*
 [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+
+---
+### Day 3 - DSA Scenario-Based Questions
+**(Date: 15-Jan-2026)**
+
+- Solved 5 scenario-Based DSA problems.
+- All the 5 problems involved the use of Sorting algorithms.
+- Learnt how to use efficient sorting.
+- Committed and pushed solutions to the repository.
+
+  🔗 *Code Link:*
+[Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+
+
+---
+
+### Day 4 - DSA Scenario-Based Questions
+**(Date: 16-Jan-2026)**
+
+- Solved 3 scenario-Based DSA problems.
+- All the 3 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
+- Learnt how to use efficient sorting.
+- Committed and pushed solutions to the repository.
+
+  🔗 *Code Link:*
+[Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+
+ ---
+ ### Day 5 - DSA Scenario-Based Questions
+**(Date: 17-Jan-2026)**
+- Solved 4 scenario-Based DSA problems.
+- All the 4 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
+- Learnt how to use efficient sorting.
+- Committed and pushed solutions to the repository.
+
+  🔗 *Code Link:*
+[Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+
+---
