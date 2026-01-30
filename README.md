@@ -447,3 +447,32 @@ Successfully pushed files to the remote repository
 [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
 
 ---
+### WEEK 6 : DSA Scenario Based Practice
+---
+
+### Day 1 - DSA Scenario-Based Questions
+**(Date: 19-Jan-2026)**
+
+Solved 3 scenario-Based DSA problems.
+The 3 Problems included:
+- EduResults – Rank Sheet Generator (Merge Sort)
+- FlashDealz – Product Sorting by Discount (Quick Sort)
+- FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+- Committed and pushed solutions to the repository.
+
+  🔗 *Code Link:*
+[Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+
+---
+### Day 2 - DSA Scenario-Based Questions
+**(Date: 20-Jan-2026)**
+
+Solved 3 scenario-Based DSA problems.
+The 3 Problems included:
+- MovieTime – Theater Show Listings (Insertion Sort)
+- FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- GamerZone – High Score Ranking System (Quick Sort)
+- Committed and pushed solutions to the repository
+
+  🔗 *Code Link:*
+[Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
