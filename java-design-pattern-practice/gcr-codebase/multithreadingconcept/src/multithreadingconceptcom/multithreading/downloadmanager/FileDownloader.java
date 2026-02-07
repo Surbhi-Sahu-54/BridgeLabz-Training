@@ -1,0 +1,28 @@
+package multithreadingconceptcom.multithreading.downloadmanager;
+import java.util.Random;
+
+public class FileDownloader implements Runnable {
+
+    private String fileName;
+    private Random random = new Random();
+
+    public FileDownloader(String fileName) {
+        this.fileName = fileName;
+    }
+
+    @Override
+    public void run() {
+
+        for (int i = 0; i <= 100; i += 25) {
+
+            System.out.println("[" + Thread.currentThread().getName() +
+                    "] Downloading " + fileName + ": " + i + "%");
+
+            try {
+                Thread.sleep(500 + random.nextInt(500)); // random delay
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
