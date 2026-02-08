@@ -476,3 +476,124 @@ The 3 Problems included:
 
   🔗 *Code Link:*
 [Scenario-based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+
+
+---
+
+### Day 3 - REGEX and JUnit & DSA Scenario-Based Questions on Trees
+**(Date: 21-Jan-2026)**
+
+Studied different types of trees.
+studied BST.
+Operations performed over trees.
+Solved 2 scenario-Based DSA problems on sorting
+Studied about pattern matching and different operations using Regex.
+Learnt how to use JUnit for testing.
+Committed and pushed solutions to the repository.
+ 🔗 *Code Link:*
+ [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+[Regex](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/regex)
+
+---
+
+### Day 4 - Annotations and Reflection & DSA Scenario-Based Questions on Trees
+**(Date: 22-Jan-2026)**
+
+Studied AVL trees
+Operations performed over avl trees.
+Solved 3 scenario-Based DSA problems on AVL trees.
+Studied different types of Annotations and their use cases.
+Learnt about reflections.
+Committed and pushed solutions to the repository.
+ 🔗 *Code Link:*
+ [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+[Annotation](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/annotation)
+[Reflextion](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/reflection)
+
+---
+
+### Day 5 - CSV Files & Scenario-Based Questions on Collections
+**(Date: 23-Jan-2026)**
+
+Studied about CSV files.
+Studied how to perform different operations over CSV files.
+Learnt multiple inbuilt and callable methods.
+Solved 5 scenario-Based DSA problems on collections.
+Committed and pushed solutions to the repository.
+🔗 *Code Link:*
+ [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+ [CSV](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IoStreamPractice/src/csvdatahandling/basicproblems)
+
+---
+
+### Day 6 - Json data operations & Scenario-Based Questions on Collection
+**(Date: 24-Jan-2026)**
+
+Studied about json files.
+Studied different operations and usecases of json data.
+Solved 5 scenario-Based DSA problems
+Committed and pushed solutions to the repository.
+🔗 *Code Link:*
+ [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
+ 
+
+---
+
+### WEEK 7 : Java 8 features
+
+---
+
+### Day 1 - Lambda Expressions and functional Interfaces
+**(Date: 27-Jan-2026)**
+
+Studied about lambda expressions and their advantages.
+Implemented functional interfaces.
+Explored different features of Java 8.
+Practiced problems.
+🔗 *Code Link:*
+ [Lambda Expression](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/lambdaexpression))
+ [Functional Interface](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/functionalinterfaces)
+ 
+---
+
+### Day 2 - Stream API and collectors.
+**(Date: 28-Jan-2026)**
+
+Studied about Stream API and collectors.
+Implemented functional interfaces.
+Explored different features of Java 8.
+Practiced real-World problems.
+🔗 *Code Link:*
+[Stream API](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/streamAPI)
+[Collectors](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/collectors)
+
+---
+
+### Day 3 - Implementation of Java 8 & revision of Collections Framework
+**(Date: 29-Jan-2026)**
+Studied about Java 8 features.
+Implemented concepts.
+Revised Last week concepts.
+Attended meeting .
+
+---
+
+### Day 4 - Implementation of Java 8
+**(Date: 30-Jan-2026)**
+
+Studied about Java 8 features.
+Implemented concepts.
+Revised Last week concepts.
+
+---
+
+### Day 5 - Streams practice & Design Principles
+**(Date: 31-Jan-2026)**
+
+Studied about Design Principles.
+Implemented concepts of java 8.
+Revised Last week concepts.
+Attended review session by mentors.
+View Code : Java 8
+
+---
