@@ -483,43 +483,44 @@ The 3 Problems included:
 ### Day 3 - REGEX and JUnit & DSA Scenario-Based Questions on Trees
 **(Date: 21-Jan-2026)**
 
-Studied different types of trees.
-studied BST.
-Operations performed over trees.
-Solved 2 scenario-Based DSA problems on sorting
-Studied about pattern matching and different operations using Regex.
-Learnt how to use JUnit for testing.
-Committed and pushed solutions to the repository.
+- Studied different types of trees.
+- studied BST.
+- Operations performed over trees.
+- Solved 2 scenario-Based DSA problems on sorting
+- Studied about pattern matching and different operations using Regex.
+- Learnt how to use JUnit for testing.
+- Committed and pushed solutions to the repository.
  🔗 *Code Link:*
  [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
-[Regex](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/regex)
+ [Regex](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/regex)
 
 ---
 
 ### Day 4 - Annotations and Reflection & DSA Scenario-Based Questions on Trees
 **(Date: 22-Jan-2026)**
 
-Studied AVL trees
-Operations performed over avl trees.
-Solved 3 scenario-Based DSA problems on AVL trees.
-Studied different types of Annotations and their use cases.
-Learnt about reflections.
-Committed and pushed solutions to the repository.
- 🔗 *Code Link:*
+- Studied AVL trees
+- Operations performed over avl trees.
+- Solved 3 scenario-Based DSA problems on AVL trees.
+- Studied different types of Annotations and their use cases.
+- Learnt about reflections.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*
  [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
-[Annotation](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/annotation)
-[Reflextion](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/reflection)
+ [Annotation](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/annotation)
+ [Reflextion](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-codebase/CollectionPractice/src/reflection)
 
 ---
 
 ### Day 5 - CSV Files & Scenario-Based Questions on Collections
 **(Date: 23-Jan-2026)**
 
-Studied about CSV files.
-Studied how to perform different operations over CSV files.
-Learnt multiple inbuilt and callable methods.
-Solved 5 scenario-Based DSA problems on collections.
-Committed and pushed solutions to the repository.
+- Studied about CSV files.
+- Studied how to perform different operations over CSV files.
+- Learnt multiple inbuilt and callable methods.
+- Solved 5 scenario-Based DSA problems on collections.
+- Committed and pushed solutions to the repository.
 🔗 *Code Link:*
  [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
  [CSV](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IoStreamPractice/src/csvdatahandling/basicproblems)
@@ -529,10 +530,10 @@ Committed and pushed solutions to the repository.
 ### Day 6 - Json data operations & Scenario-Based Questions on Collection
 **(Date: 24-Jan-2026)**
 
-Studied about json files.
-Studied different operations and usecases of json data.
-Solved 5 scenario-Based DSA problems
-Committed and pushed solutions to the repository.
+- Studied about json files.
+- Studied different operations and usecases of json data.
+- Solved 5 scenario-Based DSA problems
+- Committed and pushed solutions to the repository.
 🔗 *Code Link:*
  [Scenario based](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/dsa-question-practice/dsa-question-practice/scenario-based/ScenarioBasedProblem/src)
  
@@ -546,10 +547,11 @@ Committed and pushed solutions to the repository.
 ### Day 1 - Lambda Expressions and functional Interfaces
 **(Date: 27-Jan-2026)**
 
-Studied about lambda expressions and their advantages.
-Implemented functional interfaces.
-Explored different features of Java 8.
-Practiced problems.
+- Studied about lambda expressions and their advantages.
+- Implemented functional interfaces.
+- Explored different features of Java 8.
+- Practiced problems.
+
 🔗 *Code Link:*
  [Lambda Expression](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/lambdaexpression))
  [Functional Interface](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/functionalinterfaces)
@@ -559,10 +561,11 @@ Practiced problems.
 ### Day 2 - Stream API and collectors.
 **(Date: 28-Jan-2026)**
 
-Studied about Stream API and collectors.
-Implemented functional interfaces.
-Explored different features of Java 8.
-Practiced real-World problems.
+- Studied about Stream API and collectors.
+- Implemented functional interfaces.
+- Explored different features of Java 8.
+ Practiced real-World problems.
+
 🔗 *Code Link:*
 [Stream API](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/streamAPI)
 [Collectors](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com/collectors)
@@ -571,29 +574,104 @@ Practiced real-World problems.
 
 ### Day 3 - Implementation of Java 8 & revision of Collections Framework
 **(Date: 29-Jan-2026)**
-Studied about Java 8 features.
-Implemented concepts.
-Revised Last week concepts.
-Attended meeting .
+- Studied about Java 8 features.
+- Implemented concepts.
+- Revised Last week concepts.
+- Attended meeting .
 
 ---
 
 ### Day 4 - Implementation of Java 8
 **(Date: 30-Jan-2026)**
 
-Studied about Java 8 features.
-Implemented concepts.
-Revised Last week concepts.
+- Studied about Java 8 features.
+- Implemented concepts.
+- Revised Last week concepts.
 
 ---
 
 ### Day 5 - Streams practice & Design Principles
 **(Date: 31-Jan-2026)**
 
-Studied about Design Principles.
-Implemented concepts of java 8.
-Revised Last week concepts.
-Attended review session by mentors.
-View Code : Java 8
+- Studied about Design Principles.
+- Implemented concepts of java 8.
+- Revised Last week concepts.
+- Attended review session by mentors.
+
+🔗 *Code Link:*
+[java8](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Progrmming/src/com)
 
 ---
+
+### Week 8 : Design Patterns and Principles & Multithreading in java
+
+---
+
+### Day 1 - Design Principles and Patterns
+**(Date: 2-Feb-2026)**
+
+- Studied basic concepts of design patterns and principles in java.
+- Learnt the importance of principles.
+- Studied common principles such as :
+  - SOLID
+  - YAGNI
+  - KISS
+- Also explored several patterns such as :
+- Creational design patterns.
+- Structural design patterns
+- Behavioral Design patterns.
+- Studied implementation of principles and patterns.
+
+🔗 *Code Link:*
+[Design Pattern](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/multithreadingconcept/src/designpattern/librarymanagementsystem)
+
+---
+
+### Day 2 - Design Patterns
+**(Date: 3-Feb-2026)**
+
+- Studied about the GOF (gang of four) patterns.
+- Learnt about many patterns such as :
+- Creational Patterns – deal with object creation (e.g., Singleton, Factory, Builder).
+- Structural Patterns – deal with object composition (e.g., Adapter, Composite, Decorator).
+- Behavioral Patterns – deal with communication/interaction (e.g., Observer, Strategy, Command).
+- Practiced and pushed solutions on GitHub.
+
+🔗 *Code Link:*
+[Design Pattern](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/multithreadingconcept/src/designpattern/librarymanagementsystem)
+
+---
+
+### Day 3 - Multithreading
+**(Date: 4-Feb-2026)**
+
+- Studied basic concepts of multithreading in java.
+- Learnt the basic implementation and properties.
+- Learnt how threads are created.
+- Explored the thread life cycle.
+- Studied about different types of threads such as user thread and daemon thread.
+- Practiced and pushed solutions on GitHub.
+
+🔗 *Code Link:*
+[Multithreading](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/multithreadingconcept/src/multithreadingconceptcom/multithreading)
+
+---
+
+### Day 4 - Multithreading Implementation
+**(Date: 5-Feb-2026)**
+
+- Practiced problems with the help of multithreading.
+- Learnt how to model real world problems in multithreading.
+- Implemented classes and interfaces and defined relation between them.
+
+🔗 *Code Link:*
+[Multithreading](https://github.com/Surbhi-Sahu-54/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/multithreadingconcept/src/multithreadingconceptcom/multithreading)
+
+---
+
+### Day 5 - Power Skill Session
+**(Date: 5-Feb-2026)**
+
+- Power skill session by Shrikant Sir
+- Complete module 1
+- Studied SQL query
