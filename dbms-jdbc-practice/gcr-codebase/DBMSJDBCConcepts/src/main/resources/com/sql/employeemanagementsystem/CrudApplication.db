@@ -1,0 +1,124 @@
+/*
+Exercise 1: Simple CRUD Application
+Create a console-based Employee Management System with:
+• Add employee
+• View all employees
+• Update employee salary
+• Delete employee
+• Search employee by name
+
+
+
+-- Create Database
+
+mysql> CREATE DATABASE company;
+o/p:
+Query OK, 1 row affected (0.01 sec)
+
+mysql> USE company;
+o/p:
+Database changed
+
+
+-- Create table
+mysql> CREATE TABLE employee( emp_id INT PRIMARY KEY, name VARCHAR(50), department VARCHAR(50), salary INT );
+o/p:
+Query OK, 0 rows affected (0.04 sec)
+
+
+
+mysql> DESCRIBE employee;
+
+o/p:
++------------+-------------+------+-----+---------+-------+
+| Field      | Type        | Null | Key | Default | Extra |
++------------+-------------+------+-----+---------+-------+
+| emp_id     | int         | NO   | PRI | NULL    |       |
+| name       | varchar(50) | YES  |     | NULL    |       |
+| department | varchar(50) | YES  |     | NULL    |       |
+| salary     | int         | YES  |     | NULL    |       |
++------------+-------------+------+-----+---------+-------+
+4 rows in set (0.01 sec)
+
+
+
+mysql> INSERT INTO employee (emp_id, name, department, salary)
+    -> VALUES (101, 'Amit', 'IT', 30000);
+
+o/p: Query OK, 1 row affected (0.02 sec)
+
+
+mysql> INSERT INTO employee VALUES
+    -> (102, 'Subh', 'IT', 40000),
+    -> (103, 'Deep', 'HR', 45000),
+    -> (104, 'Saurabh', 'IT', 28000),
+    -> (105, 'Yuvi', 'HR', 28000);
+
+o/p:
+Query OK, 5 rows affected (0.01 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+
+mysql> SELECT *FROM employee;
++--------+---------+------------+--------+
+| emp_id | name    | department | salary |
++--------+---------+------------+--------+
+|    101 | Amit    | IT         |  30000 |
+|    102 | Subh    | IT         |  40000 |
+|    103 | Deep    | HR         |  45000 |
+|    104 | Saurabh | IT         |  28000 |
+|    105 | Yuvi    | HR         |  28000 |
++--------+---------+------------+--------+
+5 rows in set (0.00 sec)
+
+
+-- update employee salary
+
+mysql> UPDATE employee
+    -> SET salary = 40000
+    -> WHERE emp_id = 104;
+o/p:
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+mysql> SELECT *FROM employee WHERE emp_id = 104;
+
+o/p:
++--------+---------+------------+--------+
+| emp_id | name    | department | salary |
++--------+---------+------------+--------+
+|    104 | Saurabh | IT         |  40000 |
++--------+---------+------------+--------+
+1 row in set (0.00 sec)
+
+
+-- Delete  employee
+
+mysql> DELETE FROM employee
+    -> WHERE emp_id = 101;
+o/p:
+Query OK, 1 row affected (0.01 sec)
+
+mysql> SELECT *FROM employee;
++--------+---------+------------+--------+
+| emp_id | name    | department | salary |
++--------+---------+------------+--------+
+|    102 | Subh    | IT         |  40000 |
+|    103 | Deep    | HR         |  45000 |
+|    104 | Saurabh | IT         |  40000 |
+|    105 | Yuvi    | HR         |  28000 |
++--------+---------+------------+--------+
+4 rows in set (0.00 sec)
+
+-- Search employee by name
+
+mysql> SELECT *FROM employee
+    -> WHERE name = 'Deep';
++--------+------+------------+--------+
+| emp_id | name | department | salary |
++--------+------+------------+--------+
+|    103 | Deep | HR         |  45000 |
++--------+------+------------+--------+
+1 row in set (0.00 sec)
+
