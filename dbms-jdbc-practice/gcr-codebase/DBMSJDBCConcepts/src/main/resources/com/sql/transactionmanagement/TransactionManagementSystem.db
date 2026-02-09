@@ -1,0 +1,132 @@
+-------------------------------------------------------
+Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history
+------------------------------------------------------
+
+mysql> CREATE DATABASE bank;
+Query OK, 1 row affected (0.03 sec)
+
+
+mysql> USE bank;
+Database changed
+
+
+mysql>CREATE TABLE account (
+    acc_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    balance INT
+);
+
+
+mysql> CREATE TABLE transaction_history ( txn_id INT aUTO_INCREMENT PRIMARY KEY, from_acc INT , to_acc INT, amount INT, txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+Query OK, 0 rows affected (0.04 sec)
+
+
+mysql> INSERT INTO account VALUES
+    -> (1, 'Subh',50000),
+    -> (2,'Deep',45000),
+    -> (3,'Yuvi',40000),
+    -> (4,'Saurabh',43000),
+    -> (5,'Shweta',48000);
+Query OK, 5 rows affected (0.01 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+
+mysql> SELECT balance FROM account WHERE acc_id =1;
++---------+
+| balance |
++---------+
+|   50000 |
++---------+
+1 row in set (0.00 sec)
+
+
+mysql> START TRANSACTION;
+Query OK, 0 rows affected (0.00 sec)
+
+
+mysql> UPDATE account
+    -> SET balance = balance - 5000
+    -> WHERE  acc_id = 1;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+mysql> UPDATE account
+    -> SET balance = balance + 5000
+    -> WHERE acc_id =2;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+mysql> INSERT INTO transaction_history (from_acc , to_acc , amount)
+    -> VALUES (1,2,5000);
+Query OK, 1 row affected (0.01 sec)
+
+
+mysql> COMMIT;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> SELECT *FROM account;
+
++--------+---------+---------+
+| acc_id | name    | balance |
++--------+---------+---------+
+|      1 | Subh    |   45000 |
+|      2 | Deep    |   50000 |
+|      3 | Yuvi    |   40000 |
+|      4 | Saurabh |   43000 |
+|      5 | Shweta  |   48000 |
++--------+---------+---------+
+5 rows in set (0.00 sec)
+
+
+mysql> SELECT acc_id, name, balance FROM account;
+
++--------+---------+---------+
+| acc_id | name    | balance |
++--------+---------+---------+
+|      1 | Subh    |   45000 |
+|      2 | Deep    |   50000 |
+|      3 | Yuvi    |   40000 |
+|      4 | Saurabh |   43000 |
+|      5 | Shweta  |   48000 |
++--------+---------+---------+
+5 rows in set (0.00 sec)
+
+
+
+mysql> SELECT *FROM transaction_history;
+
++--------+----------+--------+--------+---------------------+
+| txn_id | from_acc | to_acc | amount | txn_date            |
++--------+----------+--------+--------+---------------------+
+|      1 |        1 |      2 |   5000 | 2026-02-09 13:22:40 |
++--------+----------+--------+--------+---------------------+
+1 row in set (0.00 sec)
+
+
+mysql> SELECT * FROM transaction_history
+    -> WHERE from_acc = 1 OR to_acc = 1;
+
++--------+----------+--------+--------+---------------------+
+| txn_id | from_acc | to_acc | amount | txn_date            |
++--------+----------+--------+--------+---------------------+
+|      1 |        1 |      2 |   5000 | 2026-02-09 13:22:40 |
++--------+----------+--------+--------+---------------------+
+1 row in set (0.00 sec)
+
+
+mysql> SELECT * FROM transaction_history
+    -> WHERE from_acc = 1 OR to_acc = 1;
+
++--------+----------+--------+--------+---------------------+
+| txn_id | from_acc | to_acc | amount | txn_date            |
++--------+----------+--------+--------+---------------------+
+|      1 |        1 |      2 |   5000 | 2026-02-09 13:22:40 |
++--------+----------+--------+--------+---------------------+
+1 row in set (0.00 sec)
+
